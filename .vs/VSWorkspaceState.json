@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\dashboard",
+    "\\dashboard\\migrations",
+    "\\dashboard\\templates",
+    "\\dashboard\\templates\\dashboard",
+    "\\static",
+    "\\staticfiles",
+    "\\static\\css",
+    "\\static\\images",
+    "\\studentstudyportal"
+  ],
+  "SelectedNode": "\\dashboard\\migrations\\0007_alter_homework_due.py",
+  "PreviewInSolutionExplorer": false
+}
